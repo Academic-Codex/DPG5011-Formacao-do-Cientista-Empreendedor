@@ -1,6 +1,6 @@
 TITLE_1: DPG5011
 TITLE_2: Formação do Cientista Empreendedor
-SUBTITLE_1: Disciplina de graduação
+SUBTITLE_1: Disciplina de pós-graduação
 SUBTITLE_2: Material de aula, notebooks e referências.
 
 ABOUT: |
@@ -8,8 +8,8 @@ ABOUT: |
 
 REFERENCIAS: |
   <ul>
-    <li>Livro AA …</li>
-    <li>Artigo BB …</li>
+    <li>Livro A …</li>
+    <li>Artigo B …</li>
   </ul>
 
 GITHUB_LINK: https://github.com/Academic-Codex/DPG5011-Formacao-Do-Cientista-Empreendedor
