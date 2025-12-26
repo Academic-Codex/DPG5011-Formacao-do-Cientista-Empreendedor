@@ -1,0 +1,12 @@
+REPO_TAGLINE: Scientific entrepreneurship • Product thinking • Valuation
+ASSETS_DIR: .github/readme
+CTA_TEXT: Access the full course website
+THEME: peace
+SITE_URL: https://academic-codex.github.io/DPG5011-Formacao-Do-Cientista-Empreendedor
+
+BG_1: "#0F172A"
+BG_2: "#14532D"
+TEXT_MAIN: "#F8FAFC"
+TEXT_MUTED: "#C7EFCF"
+ACCENT: "#34D399"
+CARD_RADIUS: "18"
